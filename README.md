@@ -6,10 +6,13 @@ Here we used data from the German <a href="https://www.enmap.org/" target="_blan
 Some cool examples:
 
 True Colour Image (TCI):
-<img src="https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/TCI.png" alt="" />
 
-False Colour Image (SWIR, NIR and red)
-<img src="https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/pretty_pic.png" alt="" />
+![image](https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/TCI.png)
+
+False Colour Image (SWIR, NIR and red):
+
+![image](https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/pretty_pic.png)
 
 Very pretty golden shiny image:
-<img src="https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/pretty_gold_pic.png" alt="" />
+
+![image](https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/pretty_gold_pic.png.png)
