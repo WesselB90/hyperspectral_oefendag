@@ -1,7 +1,7 @@
 # hyperspectral_oefendag
 Geo-oefendag 14-07-2023
 
-Here we used data from the German <a href="https://www.enmap.org/" target="_blank">EnMAP</a> mission to begin understanding how to work with hyperspectral imagery data.
+Here we used data from the German <a href="https://www.enmap.org/" target="_blank">EnMAP</a> mission to build up knowledge on working with hyperspectral imagery data.
 
 Some cool examples of our results:
 
