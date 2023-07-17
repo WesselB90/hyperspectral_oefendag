@@ -3,16 +3,24 @@ Geo-oefendag 14-07-2023
 
 Here we used data from the German <a href="https://www.enmap.org/" target="_blank">EnMAP</a> mission to begin understanding how to work with hyperspectral imagery data.
 
-Some cool examples:
+Some cool examples of our results:
 
-True Colour Image (TCI):
+**True Colour Image (TCI)**:
 
-![image](https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/TCI.png)
+<img src="pics/TCI.png"  width="600" height="300">
 
-False Colour Image (SWIR, NIR and red):
+**False Colour Image (SWIR, NIR and red)**:
 
-![image](https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/pretty_pic.png)
+<img src="pics/pretty_pic.png"  width="600" height="300">
 
-Very pretty golden shiny image:
+**K-Means clustering**:
 
-![image](https://github.com/WesselB90/hyperspectral_oefendag/blob/master/pics/pretty_gold_pic.png.png)
+<img src="pics/Kmeans.png"  width="1200" height="300">
+
+**NFINDER-algorithm endmember (=entity) detection results**:
+
+<img src="pics/endmembers.png">
+
+**Very pretty golden shiny image**:
+
+<img src="pics/pretty_gold_pic.png"  width="600" height="300">
