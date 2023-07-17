@@ -7,11 +7,11 @@ Some cool examples of our results:
 
 **True Colour Image (TCI)**:
 
-<img src="pics/TCI.png"  width="600" height="300">
+<img src="pics/TCI.png"  width="400" height="400">
 
 **False Colour Image (SWIR, NIR and red)**:
 
-<img src="pics/pretty_pic.png"  width="600" height="300">
+<img src="pics/pretty_pic.png"  width="400" height="400">
 
 **K-Means clustering**:
 
@@ -23,4 +23,4 @@ Some cool examples of our results:
 
 **Very pretty golden shiny image**:
 
-<img src="pics/pretty_gold_pic.png"  width="600" height="300">
+<img src="pics/pretty_gold_pic.png"  width="400" height="400">
